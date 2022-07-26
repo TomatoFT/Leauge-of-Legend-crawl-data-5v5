@@ -4,4 +4,4 @@
 
 # How to run
 <p>Download Rstudio and R to run this code</p>
-<p>Just open the `DataGatheringandProcessing.r` and press Ctrl+Enter to run the whole code. </p>
+Just open the `DataGatheringandProcessing.r` and press Ctrl+A and Ctrl+Enter to run the whole code. 
